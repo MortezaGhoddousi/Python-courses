@@ -1,0 +1,3 @@
+riazi2 yekshanbe 8 10 seshanbe 10 12
+riazi1 shanbe 10 12 charshanbe 8 10
+zaban seshanbe 16 18
