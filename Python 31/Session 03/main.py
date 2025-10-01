@@ -75,6 +75,11 @@ def selection(fitness, population):
 
 # ---------- Two-Point Crossover ----------
 def crossover(parents):
+
+    # binaries = []
+    # for p in parents:
+    #     binaries.append(float_to_8bit_binary(p))
+
     binaries = [float_to_8bit_binary(p) for p in parents]
     point1, point2 = sorted(random.sample(range(1, 7), 2))  # Ensure point1 < point2
 
