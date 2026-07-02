@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-first_name = "Morteza"
-last_name = "Ghoddousi"
-
-age = 32
-weight = 82
-
-height = 1.86
-
-is_mail = True
-=======
 first_name = "Morteza" # String
 age = 31 # Integer
 weight = 83 # Integer
@@ -84,4 +73,3 @@ print(type(your_age))
 
 your_age = int(your_age)
 print(type(your_age))
->>>>>>> 1a43faee5a04a80bd8e8e96bd37d8ce53618e653
